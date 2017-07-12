@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+ <html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Complete this task</title>
+    
+</head>
+<body>
+   <h1>i am heading one</h1>
+    <h3>i am heading three</h3>
+    <p>Lorem ipsum dolor sit amet,consectetur adipisicing elit. Impedit nesciunt illum non praesentium ullam, totam voluptas rerum rem, fugit. Quaerat ipsam laudantium quibusdam numquam totam ea incidunt aliquid tenetur repudiandae, accusamus exercitationem maxime eius, iste est nihil unde. Perspiciatis, corporis!<br><br>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur provident accusamus nostrum officiis odio, consectetur minima architecto earum deleniti? Quidem, accusamus sequi voluptate eligendi consectetur perspiciatis sunt reprehenderit dolore pariatur?</p>
+   
+   <ol>
+       <li>one</li>
+       <li>two</li>
+       <li>three</li>
+       <li>four</li>
+       <li>five</li>
+       <ol>
+           <li>blank</li>
+           <li>blank2</li>
+           <li>blank3</li>
+       </ol>
+       <li>Six</li>
+       <ul>
+           <li>six one</li>
+           <li>six two</li>
+       </ul>
+   </ol>
+    
+</body>
+</html>
+<!--ol>li for ordered list and ul>li*4 for unordered list-->
